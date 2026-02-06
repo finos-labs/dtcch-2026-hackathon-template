@@ -1,9 +1,20 @@
-# Project Submission Instructions
+# **📌 Project Submission Instructions**  
 
-## Repository Submission Requirements
-Each team will be required to submit a GitHub repository with their project. The GitHub repos **must** meet the following criteria:
+Use the **Hackathon Team Dashboard** on the AI Sandbox (https://aix.devx.systems/) to submite your solutions!
 
-1. Repository must live within the https://github.com/finos-labs GitHub Org.
-2. Completion of `README.md` details.
+**IMPORTANT:** Please make sure all content (code, presentations, resources, demos, etc) related to your submission is placed inside this GitHub repository! 
+- Make sure your `README.md` file includes the following details.
     - Project Name
     - Team Information
+
+---
+
+### **📅 Submission Deadline**  
+⏳ **Deadline:** Thursday Febraury 25th 6:00pm ET 
+
+---
+
+### **📢 Need Help?**  
+For general hackathon questions (including AWS environment) please email: DTCCAIHackathon@dtcc.com
+
+For Github, Finos Labs, & Fluxnova related questions please email: help@finos.org
