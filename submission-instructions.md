@@ -1,6 +1,6 @@
 # **📌 Project Submission Instructions**  
 
-Use the **Hackathon Team Dashboard** on the AI Sandbox (https://aix.devx.systems/) to submite your solutions!
+Use the **Hackathon Team Dashboard** on the AI Sandbox (https://aix.devx.systems/) to submit your solutions!
 
 **IMPORTANT:** Please make sure all content (code, presentations, resources, demos, etc) related to your submission is placed inside this GitHub repository! 
 - Make sure your `README.md` file includes the following details.
