@@ -16,7 +16,7 @@ AI Sandbox (https://aix.devx.systems/) is your primary starting point for access
   - [HowToProvisionVpcFromServiceCatalog](https://ai-sandbox-guides.s3.us-east-2.amazonaws.com/HowToProvisionVpcFromServiceCatalog.pdf)
 
 Fluxnova:
-- [Documentation](https://fluxnova.finos.org/)
+- [Documentation](https://docs.fluxnova.finos.org/)
 - [GitHub](https://github.com/finos/fluxnova-bpm-platform)
 - Fluxnova credentials will be sent to the Team Point of Contact - one login per team
 - Contact FINOS Help for Fluxnova issues or questions -[help@finos.org](mailto:help@finos.org)
