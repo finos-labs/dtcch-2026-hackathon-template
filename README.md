@@ -31,7 +31,7 @@ See [CONTRIBUTING.md](./.github/CONTRIBUTING.md) for more information
 
 ## License
 
-Copyright 2025 FINOS
+Copyright 2026 FINOS
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
